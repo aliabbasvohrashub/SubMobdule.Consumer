@@ -1,0 +1,3 @@
+[submodule "SubModule.Consumer/SubModule.Consumer/SubMobdule.Models"]
+	path = SubModule.Consumer/SubModule.Consumer/SubMobdule.Models
+	url = https://github.com/aliabbasvohrashub/SubMobdule.Models.git
