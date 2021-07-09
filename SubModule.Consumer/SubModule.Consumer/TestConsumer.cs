@@ -10,7 +10,8 @@ namespace SubModule.Consumer
             {
                 Id = 1,
                 Name = "First Test",
-                Address = "Vadodara"
+                Address = "Vadodara",
+                NewField = "New field added"
             };
 
         }
